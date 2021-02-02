@@ -1,4 +1,3 @@
-## Semantic Analysis of Knowledge Graph Embedding models
 
 This is the repository for our research paper [Do Embeddings Actually Capture Knowledge Graph Semantics?](https://openreview.net/forum?id=vsxYOZoPvne) under review at the ESWC 2021 conference in research papers track.
 
