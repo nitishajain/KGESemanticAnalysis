@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-entity_types_df = pd.read_csv("SimpleTypeFactsWordnetLevel.tsv", sep="\t", names=['entity', 'type', 'class'], header=None)
+entity_types_df = pd.read_csv("data/yago/SimpleTypeFactsWordnetLevel.tsv", sep="\t", names=['entity', 'type', 'class'], header=None)
 print(entity_types_df.head(10))
 
 type_freq = entity_types_df.groupby(['class']).size().sort_values(ascending=False).reset_index(name='count')
