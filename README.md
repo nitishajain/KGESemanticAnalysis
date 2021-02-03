@@ -19,4 +19,4 @@ Extended results, plots and figures accompanying the paper are available in *Sup
 
 
 ### Pretrained Embedding Models
-The KG embedding models that were used in this work were downloaded from the [LibKGE repository](https://github.com/uma-pi1/kge.git) wherever available. The rest of the models were trained by us following the instructions provided at the repository. The configuration files as well as the models are available for download from [here](https://owncloud.hpi.de/s/QIuLNwcaaInoMKo). Once you have downloaded the pre-trained models, make sure they are stored in the */.embeddings* directory. 
+The KG embedding models that were used in this work were downloaded from the [LibKGE repository](https://github.com/uma-pi1/kge.git) wherever available. The rest of the models were trained by us following the instructions provided at the repository. The configuration files as well as the models are available for download from [here](https://owncloud.hpi.de/s/QIuLNwcaaInoMKo). Once you have downloaded the pre-trained models, make sure they are stored in the *./embeddings* directory. 
