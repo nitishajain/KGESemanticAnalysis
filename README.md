@@ -11,7 +11,7 @@ Knowledge graph embeddings that generate vector space representations of knowled
 The classification and clustering code is self-sufficient, it will retrieve the embeddings of relevant entities and perform the semantic tasks on top of them. These tasks can be run independent of each other though they share the same data resources. 
 
 ### Data
-The files with mapping of entities to their classes can be found in *data* for the different datasets. The yagoTransitiveType files is available for download directly from the Yago [web page](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/downloads). 
+The files with mapping of entities to their classes can be found in *./data* for the different datasets. The yagoTransitiveType files is available for download directly from the Yago [web page](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/downloads). 
 
 
 ### Results
@@ -20,4 +20,4 @@ Extended results, plots and figures accompanying the paper are available in *Sup
 
 ### Pretrained Embedding Models
 The KG embedding models that were used in this work were downloaded from https://github.com/uma-pi1/kge.git wherever available. The rest of the models were trained by us. The configuration files and the models are available for download from [here](https://owncloud.hpi.de/s/QIuLNwcaaInoMKo).
-Once you have downloaded the models, make sure they are stored in a folder named *embeddings*. 
+Once you have downloaded the models, make sure they are stored in the */.embeddings* directory. 
