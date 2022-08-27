@@ -1,6 +1,6 @@
 ## Do Embeddings Actually Capture Knowledge Graph Semantics?
 
-This is the repository for our research paper [Do Embeddings Actually Capture Knowledge Graph Semantics?](https://openreview.net/forum?id=vsxYOZoPvne) under review at the ESWC 2021 conference in research papers track.
+This is the repository for our research paper [Do Embeddings Actually Capture Knowledge Graph Semantics?](https://link.springer.com/chapter/10.1007/978-3-030-77385-4_9) published at the ESWC 2021 conference in research papers track.
 
 ### Abstract
 
